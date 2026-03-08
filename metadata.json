@@ -1,0 +1,5 @@
+{
+  "name": "Gesture Sword Array",
+  "description": "Control a 3D sword array with particle effects using hand gestures via webcam.",
+  "requestFramePermissions": ["camera"]
+}
